@@ -1,0 +1,42 @@
+{"L":"DEBUG","time":"2020-11-25T11:07:03.789+0800","C":"web_app/main.go:35","M":"logger init sucess..."}
+{"L":"DEBUG","time":"2020-11-25T11:16:11.569+0800","C":"web_app/main.go:35","M":"logger init sucess..."}
+{"L":"DEBUG","time":"2020-11-25T11:17:33.377+0800","C":"web_app/main.go:35","M":"logger init sucess..."}
+{"L":"DEBUG","time":"2020-11-25T11:18:47.503+0800","C":"web_app/main.go:35","M":"logger init sucess..."}
+{"L":"DEBUG","time":"2020-11-25T11:29:33.453+0800","C":"web_app/main.go:35","M":"logger init sucess..."}
+{"L":"DEBUG","time":"2020-11-25T11:31:51.207+0800","C":"web_app/main.go:35","M":"logger init sucess..."}
+{"L":"DEBUG","time":"2020-11-25T11:34:08.803+0800","C":"web_app/main.go:35","M":"logger init sucess..."}
+{"L":"DEBUG","time":"2020-11-25T11:48:19.762+0800","C":"web_app/main.go:35","M":"logger init sucess..."}
+{"L":"DEBUG","time":"2020-11-25T11:49:07.317+0800","C":"web_app/main.go:35","M":"logger init sucess..."}
+{"L":"DEBUG","time":"2020-11-25T11:49:57.363+0800","C":"web_app/main.go:35","M":"logger init sucess..."}
+{"L":"DEBUG","time":"2020-11-25T11:52:59.400+0800","C":"web_app/main.go:35","M":"logger init sucess..."}
+{"L":"DEBUG","time":"2020-11-25T11:53:19.357+0800","C":"web_app/main.go:35","M":"logger init sucess..."}
+{"L":"DEBUG","time":"2020-11-25T11:53:36.785+0800","C":"web_app/main.go:35","M":"logger init sucess..."}
+{"L":"DEBUG","time":"2020-11-25T11:59:32.987+0800","C":"web_app/main.go:35","M":"logger init sucess..."}
+{"L":"DEBUG","time":"2020-11-25T11:59:39.303+0800","C":"web_app/main.go:35","M":"logger init sucess..."}
+{"L":"DEBUG","time":"2020-11-25T12:02:58.746+0800","C":"web_app/main.go:35","M":"logger init sucess..."}
+{"L":"DEBUG","time":"2020-11-25T12:07:06.917+0800","C":"web_app/main.go:35","M":"logger init sucess..."}
+{"L":"DEBUG","time":"2020-11-25T12:08:42.740+0800","C":"web_app/main.go:35","M":"logger init sucess..."}
+{"L":"DEBUG","time":"2020-11-25T12:09:56.840+0800","C":"web_app/main.go:35","M":"logger init sucess..."}
+{"L":"DEBUG","time":"2020-11-25T12:10:57.226+0800","C":"web_app/main.go:35","M":"logger init sucess..."}
+{"L":"DEBUG","time":"2020-11-25T12:11:22.421+0800","C":"web_app/main.go:35","M":"logger init sucess..."}
+{"L":"DEBUG","time":"2020-11-25T12:12:05.157+0800","C":"web_app/main.go:35","M":"logger init sucess..."}
+{"L":"DEBUG","time":"2020-11-25T12:13:40.753+0800","C":"web_app/main.go:34","M":"logger init sucess..."}
+{"L":"INFO","time":"2020-11-25T12:14:19.001+0800","C":"web_app/main.go:66","M":"shutDown Server..."}
+{"L":"INFO","time":"2020-11-25T12:14:19.505+0800","C":"web_app/main.go:72","M":"server exiting"}
+{"L":"DEBUG","time":"2020-11-25T12:15:21.012+0800","C":"web_app/main.go:35","M":"logger init sucess..."}
+{"L":"DEBUG","time":"2020-11-25T12:17:10.408+0800","C":"web_app/main.go:35","M":"logger init sucess..."}
+{"L":"DEBUG","time":"2020-11-25T12:17:54.044+0800","C":"web_app/main.go:35","M":"logger init sucess..."}
+{"L":"DEBUG","time":"2020-11-25T12:27:30.474+0800","C":"web_app/main.go:35","M":"logger init sucess..."}
+{"L":"DEBUG","time":"2020-11-25T12:30:00.456+0800","C":"web_app/main.go:35","M":"logger init sucess..."}
+{"L":"DEBUG","time":"2020-11-25T12:30:17.429+0800","C":"web_app/main.go:35","M":"logger init sucess..."}
+{"L":"DEBUG","time":"2020-11-25T12:32:23.341+0800","C":"web_app/main.go:35","M":"logger init sucess..."}
+{"L":"INFO","time":"2020-11-25T12:35:58.738+0800","C":"web_app/main.go:67","M":"shutDown Server..."}
+{"L":"INFO","time":"2020-11-25T12:35:59.243+0800","C":"web_app/main.go:73","M":"server exiting"}
+{"L":"DEBUG","time":"2020-11-25T12:41:14.207+0800","C":"web_app/main.go:35","M":"logger init sucess..."}
+{"L":"INFO","time":"2020-11-25T12:41:35.923+0800","C":"logger/logger.go:66","M":"/version","status":200,"mathod":"GET","path":"/version","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15","errors":"","cost":0.000044655}
+{"L":"INFO","time":"2020-11-25T12:41:35.978+0800","C":"logger/logger.go:66","M":"/favicon.ico","status":404,"mathod":"GET","path":"/favicon.ico","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15","errors":"","cost":0.000029602}
+{"L":"INFO","time":"2020-11-25T12:46:10.441+0800","C":"web_app/main.go:67","M":"shutDown Server..."}
+{"L":"INFO","time":"2020-11-25T12:46:10.946+0800","C":"web_app/main.go:73","M":"server exiting"}
+{"L":"DEBUG","time":"2020-11-25T12:48:05.250+0800","C":"web_app/main.go:39","M":"logger init sucess..."}
+{"L":"INFO","time":"2020-11-25T12:48:07.007+0800","C":"web_app/main.go:71","M":"shutDown Server..."}
+{"L":"INFO","time":"2020-11-25T12:48:07.512+0800","C":"web_app/main.go:77","M":"server exiting"}
